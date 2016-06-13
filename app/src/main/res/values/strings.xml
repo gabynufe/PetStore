@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pet Store</string>
+    <string name="pnombre">Nombre de mascota</string>
+    <string name="pmegusta">Cuanto me gusta</string>
+    <string name="action_favorite">Ver los 5 favoritos</string>
+    <string name="fav5">Los 5 más gustados</string>
+</resources>
